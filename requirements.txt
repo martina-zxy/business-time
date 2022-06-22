@@ -4,7 +4,7 @@ colorama==0.4.3
 Cython==0.29.21
 importlib-metadata==1.7.0
 more-itertools==8.4.0
-numpy==1.19.0
+numpy==1.22.0
 packaging==20.4
 pandas==1.0.5
 pandas-market-calendars==1.4.0
